@@ -12,3 +12,5 @@ OVERVIEW:
 
 Source Files:
 "C:\Users\harsh\OneDrive\Desktop\Power bi\Source files"
+
+Dashboard Preview: https://github.com/HarshaVArun9/Varun_E-Commerce_Sales_Dashboard/blob/main/VARUN_E-COMMERCE_SALES_DASHBOARD.png
